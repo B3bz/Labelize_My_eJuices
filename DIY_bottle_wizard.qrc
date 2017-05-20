@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>base.png</file>
+        <file>etiquette.png</file>
+        <file>alcool.png</file>
+        <file>add.png</file>
+        <file>delete.png</file>
+        <file>save.png</file>
+        <file>eliquid.png</file>
+        <file>PARAM.INI</file>
+        <file>order.png</file>
+        <file>eliquidico.ico</file>
+        <file>apply.png</file>
+        <file>eliquid2.png</file>
+        <file>databasesave.png</file>
+        <file>databaserestor.png</file>
+        <file>printlabel.png</file>
+        <file>savelabel.png</file>
+    </qresource>
+</RCC>
